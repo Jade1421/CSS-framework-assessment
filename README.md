@@ -1,28 +1,34 @@
 # CSS-framework-assessment
-All About Bears
-Read all about bears and what they're like.
+Instructions
+To complete this assessment, you will need to build a website that looks similar to the one shown below. Your website must conform to the following constraints:
 
-Home
-About
-Contact
+It must 100% rely on Twitter Bootstrap. You may not use any custom CSS.
+It should have a similar layout and color scheme to the example below.
+It should be responsive, as shown below.
+Your website does not need to have the exact same content. You will be graded based off of your ability to recreate the layout, not the exact text.
 
-Bears are neat!
-Bears are mammals that belong to the family Ursidae. They can be as small as four feet long and about 60 pounds (the sun bear) to as big as eight feet long and more than a thousand pounds (the polar bear). They’re found throughout North America, South America, Europe, and Asia.
+Desktop view
+On a desktop, your website should look similar to the following. You can use the md breakpoint when deciding upon classes.
 
-They have nonretractable claws, short tails, and excellent sense of smell. They’re typically solitary, except for mothers with cubs. There are eight species: Asiatic black bears (also called moon bears), brown bears (which include grizzly bears), giant pandas, North American black bears, polar bears, sloth bears, spectacled bears (also called Andean bears), and sun bears.
+desktop.png
 
-On average, bears can live up to 25 years in the wild and 50 in captivity. Six species, including the polar bear and the giant panda, are included on the IUCN Red List as threatened or vulnerable.
+Mobile view
+On a smaller device, your layout should look similar to the following.
 
-Source
+mobile-1.png
 
-...
-These bears are playing around.
+mobile-2.png
 
-...
-This bear is looking into the distance.
+Image resources
+You are welcome to use whatever appropriate images you like. If you would like to use the same images as the ones in the example, you may use the links below.
 
-...
-This bear just found some food.
-
-...
-This bear is one of our favorite.
+https://placebear.com/490/480
+https://placebear.com/225/225
+https://placebear.com/225/224
+https://placebear.com/225/223
+https://placebear.com/225/222
+Tips
+You may complete this challenge on your own machine before uploading it to Qualified.
+Reference the related lesson for help on completing this practice problem.
+Documentation
+The curriculum uses Bootstrap v5, so make sure you're referencing the correct documentation when working on the assessment.
